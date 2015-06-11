@@ -1,0 +1,82 @@
+.jumbotron.black_jumbotron{
+	background-color: #111;
+	margin-bottom: 0px;
+	padding-bottom: 50px;
+	padding-top: 50px;
+}
+
+.jumbotron.white_jumbotron{
+	background-color: #eee;
+	margin-bottom: 0px;
+	padding-bottom: 50px;
+	padding-top: 50px;
+}
+
+#home{
+	padding-top: 60px;
+}
+
+.upspace{
+	margin-top: 4%;
+}
+
+.downspace{
+	margin-bottom: 30px;
+}
+
+.whitef{
+	color:#ddd;
+}
+
+.logo{
+	height: 100px;
+	width: 100px;
+}
+
+.text-info-link{
+	color: rgb(66, 139, 202);
+}
+
+.black_shadow{
+	box-shadow: 0 3px 8px 0 rgba(0, 0, 0, 0.15), 0 3px 10px 0 rgba(0, 0, 0, 0.13);
+	background-color: white;
+}
+
+.white_shadow{
+	box-shadow: 0 3px 8px 0 rgba(255, 255, 255, 0.15), 0 3px 10px 0 rgba(255, 255, 255, 0.13);
+	background-color: black;
+}
+
+.white_inner_jumbo{
+	background-color: white;
+	padding-top: 10px;
+	margin-bottom: 50px;
+	padding-bottom: 20px;
+}
+
+.black_inner_jumbo{
+	background-color: black;
+	padding-top: 10px;
+	margin-bottom: 50px;
+	padding-bottom: 20px;
+}
+
+.unit{
+	height: 200px;
+	width: 340px;
+}
+
+@media (max-width: 600px) {
+	.jumbotron{
+		padding-right: 0px !important;
+		padding-left: 0px !important;
+	}
+	.col-sm-12{
+		padding-right: 0px !important;
+		padding-left: 0px !important;
+	}
+	.col-md-10{
+		padding-right: 0px !important;
+		padding-left: 0px !important;	
+	}
+}

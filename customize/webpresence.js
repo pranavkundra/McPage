@@ -1,0 +1,39 @@
+var webpresence = {
+	"webpresence": [
+		{
+			"siteName":"Facebook",
+			"link":"www.facebook.com/example.profile.3",
+			"logo_URL":"./customize/images/logo_fb.png"
+		},
+		{
+			"siteName":"Google Plus",
+			"link":"plus.google.com/+DuncanSample",
+			"logo_URL":"./customize/images/logo_gp.png"
+		},
+		{
+			"siteName":"Quora",
+			"link":"www.quora.com/example",
+			"logo_URL":"./customize/images/logo_q.png"
+		},
+		{
+			"siteName":"LinkedIn",
+			"link":"www.linkedin.com/profile/sample",
+			"logo_URL":"./customize/images/logo_li.png"
+		},
+		{
+			"siteName":"GitHub",
+			"link":"github.com/example",
+			"logo_URL":"./customize/images/logo_gh.gif"
+		},
+		{
+			"siteName":"StackOverflow",
+			"link":"stackoverflow.com/users?tab=moderators",
+			"logo_URL":"./customize/images/logo_so.png"
+		},
+		{
+			"siteName":"Twitter",
+			"link":"twitter.com/example",
+			"logo_URL":"./customize/images/logo_tw.png"
+		}
+	]
+};
