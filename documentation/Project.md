@@ -2,7 +2,7 @@ project.js contains data about your personal / professional projects.
 
 All fields except tech, short_descrip, link, link_decrip are mandatory.
 
-link, link_decrip should be specified together or not at all.
+link, link_decrip should be specified together or not at all. Links to other pages should be entered without http:// at the beginning.
 
 The meaning of the various fields is as follows.
 

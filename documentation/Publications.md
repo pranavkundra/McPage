@@ -2,7 +2,7 @@ publication.js contains data about any research or other papers you may have pub
 
 All fields except pub_time, link, link_decrip are mandatory.
 
-link, link_decrip should be specified together or not at all.
+link, link_decrip should be specified together or not at all. Links to other pages should be entered without http:// at the beginning.
 
 The meaning of the various fields is as follows.
 

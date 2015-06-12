@@ -8,7 +8,7 @@ page_title - Enter the title that you want for your page in this field.
 person_name - Enter your name in this field.
 personal_image_URL - Enter the URL to your profile photo here. It is recommended that you place all images inside the images folder.
 one_line_descriptor - Enter a one line description about yourself.
-resume_link - A link to your resume. 
+resume_link - A link to your resume. Links to other pages should be entered without http:// at the beginning.
 
 Sample values are given for ease of understanding.
 

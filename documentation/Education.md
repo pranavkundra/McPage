@@ -2,7 +2,7 @@ education.js stores your education details.
 
 All fields except major, minor, duration, courses (course list), website, website_descrip are mandatory.
 
-website and website_descrip should be specified together or not at all.
+website and website_descrip should be specified together or not at all. Links to other pages should be entered without http:// at the beginning.
 
 The meaning of the various fields is as follows.
 
