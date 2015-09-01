@@ -7,7 +7,7 @@ var webpresence = {
 		},
 		{
 			"siteName":"Google Plus",
-			"link":"plus.google.com/+DuncanSample",
+			"link":"www.google.com/+/learnmore/",
 			"logo_URL":"./customize/images/logo_gp.png"
 		},
 		{
