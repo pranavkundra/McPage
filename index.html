@@ -314,7 +314,8 @@
 				<div ng-repeat="contact in contact_tables" class="col-sm-4">
 					<h2 class="whitef">{{ contact.mode }}</h2>
 					<div ng-repeat="instance in contact.instances" class="whitef">
-						<h4 ng-if='contact.mode !== "Address"'>{{ instance.description }} - {{ instance.value }}</h4>
+						<h4 ng-if='contact.mode === "Email"'>{{ instance.description }} - <a class="text-muted" target="_blank" ng-href="mailto:{{instance.value}}">{{ instance.value }}</a></h4>
+						<h4 ng-if='contact.mode === "Phone"'>{{ instance.description }} - <a class="text-muted" target="_blank" ng-href="tel:{{instance.value}}">{{ instance.value }}</a></h4>
 						<div ng-if='contact.mode === "Address"'>
 							<h4>{{ instance.description }} -</h4>
 							<h5 ng-repeat="value in instance.value">{{ value.line }}</h5>
